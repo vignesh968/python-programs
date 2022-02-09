@@ -1,0 +1,10 @@
+my_var1=1;
+print(float(my_var1))
+my_var2=2.6
+print(int(my_var2))
+my_var3=4;
+print(complex(my_var3))
+my_var4=str(3)
+print(my_var4)
+my_var5="vicky"
+print(str(my_var5))
